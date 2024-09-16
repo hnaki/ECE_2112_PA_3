@@ -75,5 +75,6 @@ This concludes the first problem.
 ## VERSIONS:
 
 v1.5 - Uploaded the first problem (with outputs as pictures)
+v1.0 - The repository was created
 v1.0 - Added the proper titles for this experiment
 
