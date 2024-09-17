@@ -43,6 +43,7 @@ cars = pd.read_csv('cars.csv')
 cars
 ```
 Therefore, the .csv file is now stored in the data frame.
+
 ![image](https://github.com/user-attachments/assets/7d9bbdd0-b40a-441c-b491-cfbc71771595)
 ![image](https://github.com/user-attachments/assets/74d33e6e-8149-4734-95da-a8d2180f0c95)
 
