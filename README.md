@@ -42,7 +42,7 @@ After importing the pandas library, make a variable to import the .csv file to t
 cars = pd.read_csv('cars.csv')
 cars
 ```
-In order to show the first and last 5 rows of the file, the data inside the file must be running first.
+Therefore, the .csv file is now stored in the data frame.
 ![image](https://github.com/user-attachments/assets/7d9bbdd0-b40a-441c-b491-cfbc71771595)
 ![image](https://github.com/user-attachments/assets/74d33e6e-8149-4734-95da-a8d2180f0c95)
 
@@ -73,6 +73,8 @@ This concludes the first problem.
 
 
 ## VERSIONS:
+
+v1.75 - Minor Fixing of Explanations
 
 v1.5 - Uploaded the first problem (with outputs as pictures)
 
