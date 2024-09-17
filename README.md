@@ -75,7 +75,7 @@ This concludes the first problem.
 
 ## VERSIONS:
 
-v1.75 - Minor Fixing of Explanations
+v1.75 - Minor Explanation Fixed
 
 v1.5 - Uploaded the first problem (with outputs as pictures)
 
