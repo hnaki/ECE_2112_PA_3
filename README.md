@@ -4,7 +4,7 @@ Name: Barretto, Aron Caleb R.
 
 Section: 2ECE-D
 
-Date Submitted: September 16, 2024
+Date Submitted: September 17, 2024
 
 ## I. Learning Objectives: 
 
