@@ -150,7 +150,7 @@ The last part of problem 2 was pretty hard because when I try to add '==' instea
 
 ## VERSIONS:
 
-v2.0 Uploaded the second problem (with outputs as pictures)
+v2.0 - Uploaded the second problem (with outputs as pictures)
 
 v1.75 - Minor Explanation Fixed
 
